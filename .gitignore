@@ -132,3 +132,7 @@ dmypy.json
 # Carpetas en particular
 *.docx
 Data/
+*.html
+*.shp
+*.pdf
+*.zip
